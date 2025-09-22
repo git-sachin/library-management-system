@@ -56,7 +56,7 @@ The goal is to design a **well-structured database schema** for a **Library Mana
 
 ## 📊 ER Diagram
 
-![Library ER Diagram](<img width="283" height="203" alt="library_er_diagram" src="https://github.com/user-attachments/assets/12a75f08-c65c-4c4e-b0b9-4921fdb02e5e" />
+![Library ER Diagram](<img width="280" height="199" alt="image" src="https://github.com/user-attachments/assets/2884f352-ce86-43c9-9122-243ada4578d0" />
 )
 
 ---
